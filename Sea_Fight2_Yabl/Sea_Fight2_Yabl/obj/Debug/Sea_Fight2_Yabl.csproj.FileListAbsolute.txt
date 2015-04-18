@@ -1,0 +1,6 @@
+D:\Учеба\С#_5.0\DZ\DZ_18.04.15\Sea_Fight2_Yabl\Sea_Fight2_Yabl\bin\Debug\Sea_Fight2_Yabl.exe.config
+D:\Учеба\С#_5.0\DZ\DZ_18.04.15\Sea_Fight2_Yabl\Sea_Fight2_Yabl\obj\Debug\Sea_Fight2_Yabl.csprojResolveAssemblyReference.cache
+D:\Учеба\С#_5.0\DZ\DZ_18.04.15\Sea_Fight2_Yabl\Sea_Fight2_Yabl\bin\Debug\Sea_Fight2_Yabl.exe
+D:\Учеба\С#_5.0\DZ\DZ_18.04.15\Sea_Fight2_Yabl\Sea_Fight2_Yabl\bin\Debug\Sea_Fight2_Yabl.pdb
+D:\Учеба\С#_5.0\DZ\DZ_18.04.15\Sea_Fight2_Yabl\Sea_Fight2_Yabl\obj\Debug\Sea_Fight2_Yabl.exe
+D:\Учеба\С#_5.0\DZ\DZ_18.04.15\Sea_Fight2_Yabl\Sea_Fight2_Yabl\obj\Debug\Sea_Fight2_Yabl.pdb
